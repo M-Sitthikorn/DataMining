@@ -10,3 +10,4 @@ group_idm = {
 group_idm[6] = 'tum'  # Add element to dictionaries
 # print(group_idm) 
 print(group_idm[4]) # get value if key is 4 
+
