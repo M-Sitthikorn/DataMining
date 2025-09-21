@@ -1,10 +1,6 @@
-env
-datasets
-3. Pandas_Tutorial
-test_Data Preprocessing
-testData Mining
-
-<<<<<<< HEAD
-=======
-environments
->>>>>>> ab58515e0d767bbfddd6f689b8f850d64aab9b8d
+env/
+datasets/
+3. Pandas_Tutorial/
+test_Data Preprocessing/
+testData Mining/
+.vscode/
